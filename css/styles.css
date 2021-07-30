@@ -1,0 +1,73 @@
+body{
+
+    background-color: lightsalmon;
+}
+
+nav,footer{
+
+    background-color: green;
+}
+
+h4{
+    color: white;
+    font-size: medium;
+    font-weight: 300;
+}
+blockquote{
+    font-size: large;
+    color: yellow;
+    font-weight: bold;
+    font-size: 45px;
+
+
+}
+
+.navbar-item a{
+    font-size: large;
+    text-decoration: none;
+    color: lightsalmon;
+}
+
+#mainTitle{
+    text-align: center;
+    background-color: brown;
+    color: lightsalmon;
+  
+
+}
+
+#meetUp{
+    color: yellow;
+}
+
+
+#author{
+    color: yellow;
+    font-size: medium;
+    font-weight: normal;
+    
+
+
+}
+
+#quoteDiv{
+    background-color: green;
+
+}
+
+
+#joinHeader{
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+}
+#runImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#copyRight{
+    text-align: right;
+}
